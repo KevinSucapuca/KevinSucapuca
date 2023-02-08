@@ -36,10 +36,10 @@
 
 </p>
 
-
+<hr>
 
 ### 🌟Connect with me:</h3>
-<hr>
+
 
 
   
