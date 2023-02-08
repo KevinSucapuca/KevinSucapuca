@@ -32,14 +32,14 @@
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-042932?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-042932?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-042932?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img alt="next.js" src="https://img.shields.io/badge/next.js-042932?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-042932?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </p>
 
 
 
-<h3 align="left">🌟Connect with me:</h3>
+### 🌟Connect with me:</h3>
+
 <p align="center">
   
 	<a href="mailto:ksucapuca007@gmail.com"><img src="https://img.icons8.com/color/40/gmail.png" alt="Gmail"/></a>
