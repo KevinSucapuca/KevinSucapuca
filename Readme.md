@@ -39,15 +39,14 @@
 
 
 ### 🌟Connect with me:</h3>
+<hr>
 
-<p align="center">
+
   
-	<a href="mailto:ksucapuca007@gmail.com"><img src="https://img.icons8.com/color/40/gmail.png" alt="Gmail"/></a>
+	<p align="center"><a href="mailto:ksucapuca007@gmail.com"><img src="https://img.icons8.com/color/40/gmail.png" alt="Gmail"/></a></p>
 	<a href="https://github.com/KevinSucapuca"><img src="https://img.icons8.com/color/40/github--v1.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kevinsucapuca/"><img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn"/></a>
-	
-	
-</p>
+
 
 
 
