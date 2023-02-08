@@ -47,7 +47,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/kevinsucapuca"><img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:ksucapuca007@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:ksucapuca007@gmail.com"><img src="https://img.icons8.com/color/40/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/KevinSucapuca"><img src="https://img.icons8.com/color/40/github--v1.png" alt="GitHub"/></a>
 	
 	
